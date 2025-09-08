@@ -3,7 +3,8 @@ This repository contains a Tableau workbook created as a **practice project** us
 ---
 
 ## 📊 Project: Customer Year-over-Year Analysis
-- **File**: [Skill] 
+- **File**: [Skilldemonstration.twbx]
+ [https://github.com/HariVikas2119/Tableau-Portfolio-Customer-Analysis-Practice-Project-/blob/main/Skilldemonstration.twbx]
 - **Tools Used**: Tableau
 - **Practice Scope**:
   - Built using dataset available online (not proprietary data).
@@ -11,6 +12,15 @@ This repository contains a Tableau workbook created as a **practice project** us
   - Exercise intended for skill-building and showcasing Tableau capabilities.
 
 ---
+
+---
+## Snippets
+- *Sales Dashboard*
+<img width="1195" height="798" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/975f8f70-ab08-4fa6-8baf-dd35c4dc6c8f" />
+
+- *Customer Dashboard*
+  <img width="1187" height="790" alt="image" src="https://github.com/user-attachments/assets/94cef6ee-6665-46be-9b14-a3cb8bd9f779" />
+
 
 ## 🔍 Key Metrics & Calculations
 The following techniques and calculations were practiced in this project:

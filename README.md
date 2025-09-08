@@ -3,7 +3,7 @@ This repository contains a Tableau workbook created as a **practice project** us
 ---
 
 ## 📊 Project: Customer Year-over-Year Analysis
-- **File**: 
+- **File**: [Skill] 
 - **Tools Used**: Tableau
 - **Practice Scope**:
   - Built using dataset available online (not proprietary data).
